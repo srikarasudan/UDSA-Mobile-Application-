@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Purple background -->
+    <path android:fillColor="#A606C2" android:pathData="M0,0h200v200H0z"/>
+    <!-- Music waves -->
+    <path android:fillColor="#A31D1D" android:pathData="M60,80h20v40H60zM90,70h20v60H90zM120,60h20v80H120z"/>
+</vector>

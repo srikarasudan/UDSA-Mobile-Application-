@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Orange background -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M0,0h200v200H0z"/>
+
+    <!-- Monkey face (all in one path) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,70c20,0 40,30 40,60s-20,60-40,60s-40,-30 -40,-60S80,70 100,70z
+                         M85,105a5,5 0,1 1,10 0a5,5 0,1 1,-10 0z
+                         M115,105a5,5 0,1 1,10 0a5,5 0,1 1,-10 0z
+                         M85,130c5,5 15,5 30,0"/>
+
+</vector>
